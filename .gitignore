@@ -1,0 +1,10 @@
+*
+
+!slot-2
+!slot-2/*.c
+
+!.clang-format
+!.clang-tidy
+!.editorconfig
+!.gitattributes
+!.gitignore
