@@ -2,10 +2,11 @@
 
 int main() {
   int n;
-  printf("Nhap vao n so phan tu cua mang: ");
+  printf("Nhap vao so phan tu cua mang: ");
   scanf("%d", &n);
 
   int arr[n];
+  printf("Nhap vao cac phan tu cua mang: ");
   for (int i = 0; i < n; i++) {
     scanf("%d", &arr[i]);
   }

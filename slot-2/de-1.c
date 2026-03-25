@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 bool la_tam_giac(double a, double b, double c) {
-  if (a + b > c && a + c > b && b + c > a) {
+  if ((a + b > c) && (a + c > b) && (b + c > a)) {
     return true;
   }
   return false;

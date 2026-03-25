@@ -2,7 +2,7 @@
 
 int main() {
   int n;
-  printf("Nhap vao chieu cao n cua tam giac vuong: ");
+  printf("Nhap vao chieu cao cua tam giac vuong: ");
   scanf("%d", &n);
 
   for (int hang = 1; hang < (n + 1); hang++) {

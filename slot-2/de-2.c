@@ -17,7 +17,7 @@ int main() {
   scanf("%d", &n);
 
   int tong = tong_cac_chu_so(n);
-  printf("Tong = %d", tong);
+  printf("Tong cac chu so = %d\n", tong);
 
   return 0;
 }

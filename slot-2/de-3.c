@@ -30,7 +30,7 @@ int main() {
   scanf("%d", &nam_sinh);
 
   int so_tuoi = NAM_HIEN_TAI - nam_sinh;
-  printf("%d tuoi\n", so_tuoi);
+  printf("%d tuoi - ", so_tuoi);
 
   if (la_gen_x(nam_sinh)) {
     printf("La gen X!\n");
