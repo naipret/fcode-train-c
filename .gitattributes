@@ -1,3 +1,6 @@
 * text=auto eol=lf
+
 *.c text
+*.cpp text
 *.h text
+*.hpp text
