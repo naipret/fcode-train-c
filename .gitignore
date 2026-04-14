@@ -9,6 +9,9 @@
 !slot-4
 !slot-4/*.c
 
+!slot-5
+!slot-5/*.c
+
 !.clang-format
 !.clang-tidy
 !.editorconfig
